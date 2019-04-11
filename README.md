@@ -2,6 +2,10 @@
 
 This repository aims at sharing interesting MATLAB operations I come across, and describing them in a smooth and simple manner.
 
+<p align='center'>
+  <img src='https://media.giphy.com/media/2Vp0UxNcA8TEQ/source.gif'>
+  </p>
+
 ## [permute](https://www.mathworks.com/help/matlab/ref/permute.html)
 
 This function permutates the dimensions of the array. Let's take some examples to make things more clear.
